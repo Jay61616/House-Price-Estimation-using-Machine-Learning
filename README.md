@@ -1,4 +1,4 @@
-# 🏡 House Price Prediction with Random Forest
+# 🏡 House Price Estimation with Random Forest
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Model-orange?logo=scikit-learn)
