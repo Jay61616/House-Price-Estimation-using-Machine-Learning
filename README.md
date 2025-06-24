@@ -1,5 +1,12 @@
 # 🏡 House Price Prediction with Random Forest
 
+![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Model-orange?logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-Data--Handling-purple?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=matplotlib)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-lightgrey?logo=jupyter)
+
+
 This project predicts house prices using a Random Forest regression model and visualizes key insights using Python libraries.
 
 ---
@@ -30,6 +37,12 @@ This project predicts house prices using a Random Forest regression model and vi
 
 ---
 
+## 📌 Key Insight
+
+> Properties with elevators and larger area are strongly correlated with higher prices, as revealed by box plots and scatter visualizations.
+
+---
+
 ## 🛠 Tools & Libraries
 - Jupyter Notebook
 - Python (pandas, seaborn, matplotlib, sklearn)
@@ -41,10 +54,13 @@ This project predicts house prices using a Random Forest regression model and vi
 ## 📁 Folder Structure
 ```
 house-price-prediction-rf/
-├── data/               # CSV dataset
-├── notebook/           # Python code (project pipeline)
-├── report/             # Full project report in markdown
-└── README.md           # You're reading it now!
+├── data/
+│   └── housePrice.csv
+├── notebook/
+│   └── Project_PriceEstimation.py
+├── report/
+│   └── Finalreport.md  
+├── README.md
 ```
 
 ---
@@ -58,7 +74,7 @@ house-price-prediction-rf/
 
 ## 👨‍💻 Author
 **Jaya Chandra Kadiveti**  
-📧 [jkadiveti@clarku.edu](mailto:jkadiveti@clarku.edu)
+📧 [Kadivetijayachandra@gmail.com)](mailto:Kadivetijayachandra@gmail.com)
 
 ---
 
