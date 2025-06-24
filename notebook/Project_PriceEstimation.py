@@ -1,6 +1,6 @@
 # Name : Jaya Chandra Kadiveti
 
-# import pandas as pd
+import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.compose import ColumnTransformer
@@ -11,7 +11,7 @@ import ipywidgets as widgets
 from IPython.display import display
 
 # Load data and select columns of interest
-data = pd.read_csv('housePrice.csv')
+data = pd.read_csv('data/housePrice.csv')
 X = data[['Elevator', 'Address', 'Warehouse', 'Parking', 'Room', 'Area']]
 y = data['Price(USD)']
 
