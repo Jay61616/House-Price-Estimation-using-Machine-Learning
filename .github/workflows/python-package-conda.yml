@@ -21,4 +21,4 @@ jobs:
 
     - name: Run Prediction Script
       run: |
-        python notebook/Project_PricePrediction.py
+        python notebook/Project_PriceEstimation.py
